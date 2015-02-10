@@ -1,0 +1,5 @@
+# -*- coding: utf-8 -*-
+#+TITLE: Node.js rskey
+* node-rskey
+
+  Node.js rskey package providing Reed-Solomon error corrected binary data codes
